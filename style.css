@@ -17,11 +17,11 @@ button {
     transition: .6s;
     top: 33%;
     left: 45%;
-    position: sticky;
+    position: static;
     transform: translate(-50%, - 50%)
 }
 .UberschriftInhalt{
-    position: sticky;
+    position: static;
     top: 2%;
     left: 44%;
     transform: translate(-50%, - 50%)
