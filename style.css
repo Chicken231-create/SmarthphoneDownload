@@ -1,0 +1,45 @@
+
+
+body{
+  height: 100vh;
+  background:#3a3a44
+}
+button {
+  position: absolute;
+  background: none;
+  color: cadetblue;
+  width: 15%;
+  border: 1% solid #338033;
+  font-size: 80%;
+  border-radius: 0%;
+  transition: .6s;
+  top: 34%;
+  left: 40%;
+  transform: translate(-50%, - 50%)
+}
+.UberschriftInhalt{
+  position: relative;
+  top: 7%;
+  left: 42%;
+  transform: translate(-50%, - 50%)
+}
+
+.Kuh{
+  font-size: 1%;
+  position: relative;
+  top: 15%;
+  left: 35%;
+  transform: translate(-50%, - 50%)
+}
+.text{
+  position: relative;
+  top: 10%;
+  left: 42%;
+  transform: translate(-50%, - 50%)
+}
+.hinweis{
+  position: relative;
+  top: 46%;
+  left: 41%;
+  transform: translate(-50%, - 50%)
+}
