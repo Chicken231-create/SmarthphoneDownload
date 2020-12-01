@@ -14,13 +14,13 @@ button {
   border-radius: 0%;
   transition: .6s;
   top: 34%;
-  left: 40%;
+  left: 33%;
   transform: translate(-50%, - 50%)
 }
 .UberschriftInhalt{
   position: relative;
   top: 7%;
-  left: 42%;
+  left: 34%;
   transform: translate(-50%, - 50%)
 }
 
@@ -28,13 +28,13 @@ button {
   font-size: 1%;
   position: relative;
   top: 15%;
-  left: 35%;
+  left: 27%;
   transform: translate(-50%, - 50%)
 }
 .text{
   position: relative;
   top: 10%;
-  left: 42%;
+  left: 35%;
   transform: translate(-50%, - 50%)
 }
 .hinweis{
